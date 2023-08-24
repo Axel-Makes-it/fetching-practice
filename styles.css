@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+  background-color: #222;
+  color: #fff;
+}
+
+#avatar {
+  border-radius: 50%;
+}
+
+#email,
+#first_name,
+#last_name {
+  font-size: larger;
+}
